@@ -14,7 +14,7 @@ public class EJERCICIOS {
         System.out.println("El numero menor de los 3 es : "+c1.elMenor(1, 20, 11));
         
         // EJERCICIO 3
-        System.out.println("La cantidad de numeros pares entre 0 y el limite dado es de: "+c1.NumerosPares(20));
+        System.out.println("La cantidad de numeros pares entre 0 y el limite dado es de: "+c1.NumerosPares(5));
         
         // EJERCICIO 4
         System.out.println("La suma de los numeros desde 0 hasta el numero dado es de: "+c1.SumaNumeros(3));
