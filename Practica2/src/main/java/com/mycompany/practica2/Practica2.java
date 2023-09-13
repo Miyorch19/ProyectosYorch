@@ -14,6 +14,7 @@ public class Practica2 {
             {
                 System.out.println(acta.getNotas()[i][j] + "-");
             }
+            System.out.println("Promedio: " +acta.promedioAlumno(i));
             System.out.println("");
         }
 
