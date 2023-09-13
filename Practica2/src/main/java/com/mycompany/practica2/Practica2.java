@@ -17,6 +17,6 @@ public class Practica2 {
             System.out.println("Promedio: " +acta.promedioAlumno(i));
             System.out.println("");
         }
-
+        System.out.println("Promedio Total: "+acta.promedioTotal());
     }
 }
