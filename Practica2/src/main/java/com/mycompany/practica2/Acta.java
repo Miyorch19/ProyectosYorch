@@ -40,7 +40,7 @@ public class Acta {
         {
             for(int columnas=0;columnas<notas[0].length;columnas++)
             {
-                promedioFinal=notas[filas][columnas];
+                promedioFinal+=notas[filas][columnas];
             }
         }
         return promedioFinal/(notas.length * notas[0].length);
